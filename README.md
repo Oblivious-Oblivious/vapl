@@ -4,9 +4,11 @@ Verbose APL, a transpiler of syntax sugar superset of the language to original A
 
 # Installation
 
+```
 $> em install
 $> em build app release
 $> ./export/vapl
+```
 
 ## Contributing
 
